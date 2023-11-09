@@ -1,2 +1,3 @@
 # Pandas_Accelerator
-rapids-cudf-pandas-accelerator-mode
+- Rapids-cudF-Pandas-Accelerator-Mode
+- The Combination of Pandas and GPU.
